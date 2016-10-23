@@ -12,6 +12,3 @@ description = "Allows for structure fields to be memoized"
 [dependencies]
 syntex_syntax = "0.46.0"
 syntex_errors = "0.46.0"
-
-[package]
-exclude = ["docs/*"]

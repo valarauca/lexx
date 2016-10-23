@@ -1,0 +1,17 @@
+[package]
+name = "lexx"
+version = "0.1.0"
+authors = ["William Laeder <codylaeder@gmail.com>"]
+repository = "https://github.com/valarauca/lexx.git"
+homepage = "https://github.com/valarauca/lexx/"
+license = "Apache-2.0"
+readme = "Readme.md"
+documentation = "https://valarauca.github.io/lexx/lexx/index.html"
+description = "Allows for structure fields to be memoized"
+
+[dependencies]
+syntex_syntax = "0.46.0"
+syntex_errors = "0.46.0"
+
+[package]
+exclude = ["docs/*"]
